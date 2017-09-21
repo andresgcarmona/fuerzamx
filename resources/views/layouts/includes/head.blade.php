@@ -8,11 +8,6 @@
 <link rel="shortcut icon" href="/images/favicon.ico" sizes="16x16">
 <link rel="apple-touch-icon" href="/images/favicon.ico" sizes="16x16">
 <link rel="stylesheet" media="all" href="/css/reset.css">
-<link rel="stylesheet" media="all" href="/css/mdl/material.min.css">
 <link rel="stylesheet" media="all" href="/css/bootstrap/bootstrap.min.css">
-<link rel="stylesheet" media="all" href="/css/kendo-ui/kendo.common.min.css">
-<link rel="stylesheet" media="all" href="/css/kendo-ui/kendo.bootstrap.min.css">
-<link rel="stylesheet" media="all" href="/css/tooltipster/tooltipster.css">
 <link rel="stylesheet" media="all" href="/css/nprogress/nprogress.css">
-<link rel="stylesheet" media="all" href="/css/switchery/switchery.min.css">
 <link rel="stylesheet" media="all" href="/css/global.min.css?v={{$version}}">

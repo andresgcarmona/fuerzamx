@@ -1,4 +1,4 @@
-<?php namespace Stadium\ViewComposers;
+<?php namespace App\ViewComposers;
 
 use Illuminate\Contracts\View\View;
 

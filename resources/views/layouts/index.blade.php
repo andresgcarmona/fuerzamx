@@ -9,7 +9,7 @@
 @endphp
 <body {{isset($login) && $login ? 'class=login' : ''}}>
 <div id="app" class="container-fluid {{!empty($notifications) ? 'notifications' : ''}}">
-    @include('layouts.includes.header')
+    {{-- @include('layouts.includes.header') --}}
     @yield('main')
 </div>
 @section('scripts')
@@ -29,7 +29,7 @@
     </script> 
     @endif
     @if(!isset($loading))
-    @include('layouts.includes.loading')
+    {{-- @include('layouts.includes.loading') --}}
     @endif
 @show
 </body>
